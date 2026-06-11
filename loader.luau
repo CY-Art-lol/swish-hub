@@ -1,1 +1,1 @@
-if getfenv(2).script_key then getgenv().script_key = getfenv(2).script_key end;local a='discord.gg/kicia'if not game:IsLoaded()then game.Loaded:Wait()end;setthreadidentity=setthreadidentity or func[...]
+if getfenv(2).script_key then getgenv().script_key = getfenv(2).script_key end;local a='discord.gg/vanguard.exe'if not game:IsLoaded()then game.Loaded:Wait()end;setthreadidentity=setthreadidentity or func[...]
