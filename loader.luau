@@ -1,1 +1,1 @@
-local discord='discord.gg/vanguard.exe'if not game:IsLoaded()then game.Loaded:Wait()end;setthreadidentity=setthreadidentity or function()end;local s=game:GetService('HttpService')local u='https://raw.githubusercontent.com/CY-Art-lol/swish-hub/main/main.luau'local c,e=pcall(function()return s:GetAsync(u)end)if c then loadstring(c)()else warn('Failed to load script: '..e)end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CY-Art-lol/swish-hub/refs/heads/main/loader.luau"))()
