@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CY-Art-lol/swish-hub/refs/heads/main/loader.luau"))()
